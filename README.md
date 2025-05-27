@@ -98,4 +98,7 @@ Both models were trained on a dataset of videos with various degradation types a
 
 ## 🔗 Data Access
 
-The dataset used contains video clips with synthetic distortions and is not included in this repository due to size constraints.  
+The dataset is **not included** in this repository due to size and licensing.
+
+You can:
+- Apply for access to EPIC-KITCHENS via [epic-kitchens.github.io](https://epic-kitchens.github.io)
