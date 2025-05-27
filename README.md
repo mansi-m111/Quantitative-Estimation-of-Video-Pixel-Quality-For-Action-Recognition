@@ -96,6 +96,12 @@ Both models were trained on a dataset of videos with various degradation types a
 
 ---
 
+## 📎 Supporting Materials
+
+- 🎤 [Presentation Slides (PDF)](docs/Quantitative Estimation of Video Pixel Quality For Action.pdf): Stakeholder-facing presentation outlining methodology and key findings.
+
+---
+
 ## 🔗 Data Access
 
 The dataset is **not included** in this repository due to size and licensing.
